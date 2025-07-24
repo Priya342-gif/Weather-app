@@ -18,12 +18,11 @@ A clean and modern weather app that allows users to search for the weather of an
 - Weather API (OpenWeatherMap)
 
 ## 📁 Project Structure
-🪟 weather-app/
-├── weather.html       # Main HTML file
-├── style.css          # All styling including blur effects
-├── script.js          # JavaScript for API and interactions
-├── images.jpg         # Background image
-└── README.md          # You're reading this
+  - weather.html       # Main HTML file
+  - style.css          # All styling including blur effects
+  - script.js          # JavaScript for API and interactions
+  - images.jpg         # Background image
+  - README.md          # You're reading this
 
 💡 Notes
 If an invalid city is entered, an error image will be shown with no blur effect.
